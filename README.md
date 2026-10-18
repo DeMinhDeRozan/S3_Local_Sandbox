@@ -113,6 +113,8 @@ terraform.tfstate.backup
 > - 🗑️ To tear everything down: `terraform destroy` then `docker compose down`.
 
 ---
+
+<h2>🔴There are more services available in Floci console, not only S3. Try them for better skills.</h2>
        
 <pre align = "center">
                                                                               
